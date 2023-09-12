@@ -27,7 +27,7 @@ Actuellement, je me sens comme un poisson dans l'eau dans le monde du front-end 
 
 - 🚀 **Node.js**: De la création de bots Discord à la gestion de serveurs backend, Node.js est mon allié 💪
 
-- ⛏️ **Skript**: Même Minecraft ne m'échappe pas! J'utilise [Skript](https://github.com/SkriptLang/Skript/) pour créers mes propes plugins mon serveur Minecraft 🎮
+- ⛏️ **Skript**: Même Minecraft ne m'échappe pas! J'utilise [Skript](https://github.com/SkriptLang/Skript/) pour créers mes propes plugins 🎮
 
 ## Ma passion dévorante 🌟
 
