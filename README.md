@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil GitHub! 🚀
 
-Salut à tous, je suis Gui, un développeur de 21 ans basé en Belgique 🇧🇪 J'ai attrapé le virus du code à l'âge de 13 ans, et depuis, c'est ma passion qui me fait vibrer! 💻
+Salut à tous, je suis un développeur de 21 ans basé en Belgique 🇧🇪 J'ai attrapé le virus du code à l'âge de 13 ans, et depuis, c'est ma passion qui me fait vibrer! 💻
 
 ## À propos de moi 🙋‍♂️
 
