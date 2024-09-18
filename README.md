@@ -4,7 +4,7 @@ Salut à tous, je suis un développeur de 21 ans basé en Belgique 🇧🇪 J'ai
 
 ## À propos de moi 🙋‍♂️
 
-- **Âge**: 21 ans 🎉
+- **Âge**: 22 ans 🎉
 - **Originaire de**: Belgique 🍟
 
 ## Ma petite histoire 📖
