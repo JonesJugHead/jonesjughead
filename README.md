@@ -1,36 +1,30 @@
-# Bienvenue sur mon profil GitHub! 🚀
+# Bienvenue sur mon profil GitHub
 
-Salut à tous, je suis un développeur de 21 ans basé en Belgique 🇧🇪 J'ai attrapé le virus du code à l'âge de 13 ans, et depuis, c'est ma passion qui me fait vibrer! 💻
+Bonjour, je suis un développeur de 22 ans basé en Belgique. Ma passion pour le code est née à l'âge de 13 ans et ne m'a jamais quitté depuis.
 
-## À propos de moi 🙋‍♂️
+## À propos de moi
 
-- **Âge**: 22 ans 🎉
-- **Originaire de**: Belgique 🍟
+- **Âge**: 22 ans
+- **Originaire de**: Belgique
 
-## Ma petite histoire 📖
+## Mon parcours
 
-Depuis que j'ai mis les mains sur un clavier, la programmation est devenue ma grande aventure ! J'ai commencé cette incroyable épopée à 13 ans, et depuis, je n'ai jamais regardé en arrière 💥
+J'ai commencé à coder à l'âge de 13 ans et, depuis, la programmation est devenue une véritable aventure pour moi.
 
-## Mon terrain de jeu 💡
+## Compétences
 
-Actuellement, je me sens comme un poisson dans l'eau dans le monde du front-end en dans l'équipe où je suis ! Je suis aussi un touche-à-tout avec une boîte à outils bien remplie 🧰 :
+Voici les technologies et outils que j'utilise fréquemment :
 
-- 💻 **Front-end**: J'aime créer des projets en React ou bien même NextJs ! Je suis constamment à l'affût des nouvelles tendances et des idées folles pour rendre le web plus cool 😎
+- **Front-end**: Principalement React et Next.js. Toujours à la recherche de nouvelles tendances pour améliorer l'expérience web.
+- **Python**: Pour divers projets allant des scripts d'automatisation à des projets plus complexes.
+- **Web Vanilla**: HTML, CSS et JavaScript sans framework.
+- **p5.js**: Pour des animations interactives et des projets créatifs. Découvrez [p5.js](https://github.com/processing/p5.js).
+- **PHP**: Développement d'API et de pages web dynamiques.
+- **Node.js**: Création de bots et gestion de serveurs backend.
+- **Skript**: Développement de plugins pour Minecraft avec [Skript](https://github.com/SkriptLang/Skript/).
 
-- 🐍 **Python**: J'ai un petit faible pour Python et je l'utilise pour toutes sortes de projets, des scripts qui me permettent de gagner du temps ou bien des simple script pour troll mes amis 😂
+## Ma passion
 
-- 🌐 **Web Vanilla**: J'adore coder en pur HTML, CSS et JavaScript, sans dépendre de bibliothèques ou de frameworks 
+La programmation est plus qu'un simple métier pour moi; c'est une passion. J'aime relever de nouveaux défis, apprendre de nouvelles technologies et trouver des solutions créatives à des problèmes complexes. 
 
-- 🖌️ **p5.js**: J'ai aussi une passion pour la création de canvas interactifs et d'animations géniales avec [p5.js](https://github.com/processing/p5.js) 🎨
-
-- 🐘 **PHP**: J'utilise PHP pour créer des API et des pages web dynamiques 🧨
-
-- 🚀 **Node.js**: De la création de bots Discord à la gestion de serveurs backend, Node.js est mon allié 💪
-
-- ⛏️ **Skript**: Même Minecraft ne m'échappe pas! J'utilise [Skript](https://github.com/SkriptLang/Skript/) pour créers mes propes plugins 🎮
-
-## Ma passion dévorante 🌟
-
-La programmation, c'est bien plus qu'un métier pour moi, c'est une véritable passion qui me fait vibrer chaque jour. J'adore relever de nouveaux défis, apprendre de nouvelles technologies et trouver des solutions créatives à des problèmes complexes. Si vous partagez cette passion, n'hésitez pas à explorer mes projets sur GitHub et à me contacter pour discuter de projets ou juste de code 💬
-
-Alors, ne soyez pas timide, explorez mes projets et contactez-moi si vous avez des idées géniales ou si vous voulez simplement discuter de code autour d'un chocolat chaud virtuel ☕ ! Je suis toujours partant pour de nouvelles aventures dans le monde de la technologie ! 🚀🌍
+N'hésitez pas à explorer mes projets sur GitHub et à me contacter pour discuter de collaborations potentielles ou simplement échanger sur des sujets technologiques.
